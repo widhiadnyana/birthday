@@ -3,7 +3,7 @@ module.exports = {
     siteMetadata: {
         title: "Diah's Online Birthday",
         description: "Celebrate birthday online",
-        // siteUrl: "https://birthdaycovid.com",
+        siteUrl: "https://birthdaycovid.com",
     },
     plugins: [
         "gatsby-plugin-react-helmet",
