@@ -76,7 +76,7 @@ export default () => {
     });
 
     const birthdayWishTextBottom = new Text({
-        text: "Ni Putu Wilastita Muthia Sofi",
+        text: "Diah Utari Purwaningrum",
         x: getCanvasWidth() / 2,
         y: getCanvasHeight() * 0.25,
         alpha: 0,

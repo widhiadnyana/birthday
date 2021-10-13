@@ -42,10 +42,10 @@ const IntroModal = ({ onCloseModal }) => {
                                 fontSize: "20px",
                                 fontWeight: "600",
                             }}>
-                            ❤ Ni Putu Wilastita Muthia Sofi ❤
+                            ❤ Diah Utari Purwaningrum ❤
                         </span>
                         <div style={{ display: "flex", columnGap: "20px" }}>
-                            <p>From: Sukra & Widhi</p>
+                            <p>From: Beloved Adnya</p>
                             {/* <img style={{ width: "30px" }} src={pig} /> */}
                         </div>
                     </p>

@@ -1,7 +1,7 @@
 module.exports = {
     pathPrefix: "/birthday",
     siteMetadata: {
-        title: "Tita's Online Birthday",
+        title: "Diah's Online Birthday",
         description: "Celebrate birthday online",
         // siteUrl: "https://birthdaycovid.com",
     },
